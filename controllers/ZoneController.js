@@ -1,4 +1,4 @@
-var Zone = require('..models/Zone');
+var Zone = require('../models/Zone');
 
 module.exports = {
     find: function(params, callback){
